@@ -1,1 +1,2 @@
-print("HELLO WORLD");
+"Hello python"
+print(__doc__)
